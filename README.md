@@ -1,2 +1,1 @@
-# CloudComputing-Lab6
-Cloud Computing Lab 6 Repo
+# cc-lab6-storage
